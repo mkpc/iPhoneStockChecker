@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2255370C-6308-4C57-82CD-3F49956BE40A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iphoneAva/Tmo.xml">
+    <Files>
+      <File FileName="iphoneAva/Program.cs" Line="19" Column="54" />
+      <File FileName="iphoneAva/Store.cs" Line="14" Column="27" />
+      <File FileName="iphoneAva/StoreList.cs" Line="8" Column="28" />
+      <File FileName="iphoneAva/Tmo.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.iphoneAva PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

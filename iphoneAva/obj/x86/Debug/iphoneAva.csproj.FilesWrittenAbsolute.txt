@@ -1,0 +1,6 @@
+/Users/MarcoC/Projects/iphoneAva/iphoneAva/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/MarcoC/Projects/iphoneAva/iphoneAva/bin/Debug/iphoneAva.exe.mdb
+/Users/MarcoC/Projects/iphoneAva/iphoneAva/bin/Debug/iphoneAva.exe
+/Users/MarcoC/Projects/iphoneAva/iphoneAva/obj/x86/Debug/iphoneAva.exe
+/Users/MarcoC/Projects/iphoneAva/iphoneAva/obj/x86/Debug/iphoneAva.exe.mdb
+/Users/MarcoC/Projects/iphoneAva/iphoneAva/bin/Debug/Newtonsoft.Json.dll

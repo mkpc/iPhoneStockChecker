@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rows>
+	<phone Carrie="TMOBILE">
+	  <row KEY="7128GBJet" MODEL="MNA52LL/A" ></row>
+	  <row KEY="7256GBJet" MODEL="MNAA2LL/A" ></row>
+	  <row KEY="732GBBlack" MODEL="MN9U2LL/A" ></row>
+	  <row KEY="7128GBBlack" MODEL="MN9Y2LL/A" ></row>
+	  <row KEY="7256GBBlack" MODEL="MNA62LL/A" ></row>
+	  <row KEY="732GBSilver" MODEL="MN9V2LL/A" ></row>
+	  <row KEY="7128GBSilver" MODEL="MNA02LL/A" ></row>
+	  <row KEY="7256GBSilver" MODEL="MNA72LL/A" ></row>
+	  <row KEY="732GBGold" MODEL="MN9W2LL/A" ></row>
+	  <row KEY="7128GBGold" MODEL="MNA32LL/A" ></row>
+	  <row KEY="7256GBGold" MODEL="MNA82LL/A" ></row>
+	  <row KEY="732GBRose" MODEL="MN9X2LL/A" ></row>
+	  <row KEY="7128GBRose" MODEL="MNA42LL/A" ></row>
+	  <row KEY="7256GBRose" MODEL="MNA92LL/A" ></row>
+	  <row KEY="Plus128GBJet" MODEL="MN5L2LL/A" ></row>
+	  <row KEY="Plus256GBJet" MODEL="MN5R2LL/A" ></row>
+	  <row KEY="Plus32GBGold" MODEL="MNQY2LL/A" ></row>
+	  <row KEY="Plus128GBGold" MODEL="MN5J2LL/A" ></row>
+	  <row KEY="Plus256GBGold" MODEL="MN5P2LL/A" ></row>
+	  <row KEY="Plus32GBRose" MODEL="MNR02LL/A" ></row>
+	  <row KEY="Plus128GBRose" MODEL="MN5K2LL/A" ></row>
+	  <row KEY="Plus256GBRose" MODEL="MN5Q2LL/A" ></row>
+	  <row KEY="Plus32GBSilver" MODEL="MNQX2LL/A" ></row>
+	  <row KEY="Plus128GBSilver" MODEL="MN5H2LL/A" ></row>
+	  <row KEY="Plus256GBSilver" MODEL="MN5N2LL/A" ></row>
+	  <row KEY="Plus32GBBlack" MODEL="MNQW2LL/A" ></row>
+	  <row KEY="Plus128GBBlack" MODEL="MN5G2LL/A" ></row>
+	  <row KEY="Plus256GBBlack" MODEL="MN5M2LL/A" ></row>
+	</phone>
+	<phone Carrie="ATT">
+	  <row KEY="Plus128GBJet" MODEL="MN572LL/A" ></row>
+	  <row KEY="Plus256GBJet" MODEL="MN5F2LL/A" ></row>
+	  <row KEY="Plus32GBGold" MODEL="MNQU2LL/A" ></row>
+	  <row KEY="Plus128GBGold" MODEL="MN552LL/A" ></row>
+	  <row KEY="Plus256GBGold" MODEL="MN5D2LL/A" ></row>
+	  <row KEY="Plus32GBRose" MODEL="MNQV2LL/A" ></row>
+	  <row KEY="Plus128GBRose" MODEL="MN562LL/A" ></row>
+	  <row KEY="Plus256GBRose" MODEL="MN5E2LL/A" ></row>
+	  <row KEY="Plus32GBSilver" MODEL="MNQT2LL/A" ></row>
+	  <row KEY="Plus128GBSilver" MODEL="MN532LL/A" ></row>
+	  <row KEY="Plus256GBSilver" MODEL="MN5C2LL/A" ></row>
+	  <row KEY="Plus32GBBlack" MODEL="MNQR2LL/A" ></row>
+	  <row KEY="Plus128GBBlack" MODEL="MN522LL/A" ></row>
+	  <row KEY="Plus256GBBlack" MODEL="MN592LL/A" ></row>
+	  <row KEY="7128GBJet" MODEL="MN9M2LL/A" ></row>
+	  <row KEY="7256GBJet" MODEL="MN9T2LL/A" ></row>
+	  <row KEY="732GBBlack" MODEL="MN9D2LL/A" ></row>
+	  <row KEY="7128GBBlack" MODEL="MN9H2LL/A" ></row>
+	  <row KEY="7256GBBlack" MODEL="MN9N2LL/A" ></row>
+	  <row KEY="732GBSilver" MODEL="MN9E2LL/A" ></row>
+	  <row KEY="7128GBSilver" MODEL="MN9J2LL/A" ></row>
+	  <row KEY="7256GBSilver" MODEL="MN9P2LL/A" ></row>
+	  <row KEY="732GBGold" MODEL="MN9F2LL/A" ></row>
+	  <row KEY="7128GBGold" MODEL="MN9K2LL/A" ></row>
+	  <row KEY="7256GBGold" MODEL="MN9Q2LL/A" ></row>
+	  <row KEY="732GBRose" MODEL="MN9G2LL/A" ></row>
+	  <row KEY="7128GBRose" MODEL="MN9L2LL/A" ></row>
+	  <row KEY="7256GBRose" MODEL="MN9R2LL/A" ></row>
+	</phone>
+	<phone Carrie="Verizon" >
+	  <row KEY="7128GBJet" MODEL="MNAP2LL/A" ></row>
+	  <row KEY="7256GBJet" MODEL="MNAX2LL/A" ></row>
+	  <row KEY="732GBBlack" MODEL="MNAC2LL/A" ></row>
+	  <row KEY="7128GBBlack" MODEL="MNAJ2LL/A" ></row>
+	  <row KEY="7256GBBlack" MODEL="MNAQ2LL/A" ></row>
+	  <row KEY="732GBSilver" MODEL="MNAD2LL/A" ></row>
+	  <row KEY="7128GBSilver" MODEL="MNAK2LL/A" ></row>
+	  <row KEY="7256GBSilver" MODEL="MNAU2LL/A" ></row>
+	  <row KEY="732GBGold" MODEL="MNAE2LL/A" ></row>
+	  <row KEY="7128GBGold" MODEL="MNAL2LL/A" ></row>
+	  <row KEY="7256GBGold" MODEL="MNAV2LL/A" ></row>
+	  <row KEY="732GBRose" MODEL="MNAF2LL/A" ></row>
+	  <row KEY="7128GBRose" MODEL="MNAM2LL/A" ></row>
+	  <row KEY="7256GBRose" MODEL="MNAW2LL/A" ></row>
+	  <row KEY="Plus128GBJet" MODEL="MN5X2LL/A" ></row>
+	  <row KEY="Plus256GBJet" MODEL="MN632LL/A" ></row>
+	  <row KEY="Plus32GBGold" MODEL="MNR32LL/A" ></row>
+	  <row KEY="Plus128GBGold" MODEL="MN5V2LL/A" ></row>
+	  <row KEY="Plus256GBGold" MODEL="MN612LL/A" ></row>
+	  <row KEY="Plus32GBRose" MODEL="MNR42LL/A" ></row>
+	  <row KEY="Plus128GBRose" MODEL="MN5W2LL/A" ></row>
+	  <row KEY="Plus256GBRose" MODEL="MN622LL/A" ></row>
+	  <row KEY="Plus32GBSilver" MODEL="MNR22LL/A" ></row>
+	  <row KEY="Plus128GBSilver" MODEL="MN5U2LL/A" ></row>
+	  <row KEY="Plus256GBSilver" MODEL="MN602LL/A" ></row>
+	  <row KEY="Plus32GBBlack" MODEL="MNR12LL/A" ></row>
+	  <row KEY="Plus128GBBlack" MODEL="MN5T2LL/A" ></row>
+	  <row KEY="Plus256GBBlack" MODEL="MN5Y2LL/A" ></row>	
+	</phone>
+	<phone Carrie="Sprint" >
+	  <row KEY="Plus128GBJet" MODEL="MN682LL/A" ></row>
+	  <row KEY="Plus256GBJet" MODEL="MN6E2LL/A" ></row>
+	  <row KEY="Plus32GBGold" MODEL="MNR72LL/A" ></row>
+	  <row KEY="Plus128GBGold" MODEL="MN662LL/A" ></row>
+	  <row KEY="Plus256GBGold" MODEL="MN6C2LL/A" ></row>
+	  <row KEY="Plus32GBRose" MODEL="MNR82LL/A" ></row>
+	  <row KEY="Plus128GBRose" MODEL="MN672LL/A" ></row>
+	  <row KEY="Plus256GBRose" MODEL="MN6D2LL/A" ></row>
+	  <row KEY="Plus32GBSilver" MODEL="MNR62LL/A" ></row>
+	  <row KEY="Plus128GBSilver" MODEL="MN652LL/A" ></row>
+	  <row KEY="Plus256GBSilver" MODEL="MN6A2LL/A" ></row>
+	  <row KEY="Plus32GBBlack" MODEL="MNR52LL/A" ></row>
+	  <row KEY="Plus128GBBlack" MODEL="MN642LL/A" ></row>
+	  <row KEY="Plus256GBBlack" MODEL="MN692LL/A" ></row>
+	  <row KEY="7128GBJet" MODEL=" MNC72LL/A" ></row>
+	  <row KEY="7256GBJet" MODEL=" MNCD2LL/A" ></row>
+	  <row KEY="732GBBlack" MODEL=" MNAY2LL/A" ></row>
+	  <row KEY="7128GBBlack" MODEL=" MNC32LL/A" ></row>
+	  <row KEY="7256GBBlack" MODEL=" MNC82LL/A" ></row>
+	  <row KEY="732GBSilver" MODEL=" MNC02LL/A" ></row>
+	  <row KEY="7128GBSilver" MODEL=" MNC42LL/A" ></row>
+	  <row KEY="7256GBSilver" MODEL=" MNC92LL/A" ></row>
+	  <row KEY="732GBGold" MODEL=" MNC12LL/A" ></row>
+	  <row KEY="7128GBGold" MODEL=" MNC52LL/A" ></row>
+	  <row KEY="7256GBGold" MODEL=" MNCA2LL/A" ></row>
+	  <row KEY="732GBRose" MODEL=" MNC22LL/A" ></row>
+	  <row KEY="7128GBRose" MODEL=" MNC62LL/A" ></row>
+	  <row KEY="7256GBRose" MODEL=" MNCC2LL/A" ></row>
+	</phone>
+</rows>
